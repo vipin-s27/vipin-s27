@@ -1,25 +1,32 @@
+<!-- Top Banner (Smaller Size) -->
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="banner" width="60%"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Vipin Suryavanshi</h1>
 <h3 align="center">Driven by data, powered by curiosity</h3>
 
-<table>
+<!-- Main Content -->
+<div align="center">
+<table align="center">
 <tr>
-<td width="60%" valign="top">
+<td width="60%" valign="top" align="left">
 
-<p align="left"> 
+<p> 
   <img src="https://komarev.com/ghpvc/?username=vipin-s27&label=Profile%20views&color=0e75b6&style=flat" alt="vipin-s27" /> 
 </p>
 
 - 📫 How to reach me **vipinsuryavanshi.vs@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3>Connect with me:</h3>
+<p>
   <a href="https://linkedin.com/in/vipin-suryavanshi" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vipin-suryavanshi" height="30" width="40" />
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<h3>Languages and Tools:</h3>
+<p> 
   <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
@@ -53,8 +60,9 @@
 
 </td>
 
-<td width="40%" align="center">
-  <img alt="Coding" width="300" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+<td width="40%" align="center" valign="top">
+  <img alt="Coding" width="330" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 </td>
 </tr>
 </table>
+</div>
