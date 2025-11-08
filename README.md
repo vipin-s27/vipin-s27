@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vipin Suryavanshi</h1>
 <h3 align="center">Driven by data, powered by curiosity</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vipin-s27&label=Profile%20views&color=0e75b6&style=flat" alt="vipin-s27" /> </p>
+
 - 👨‍💻 All of my projects are available at [https://github.com/vipin-s27?tab=repositories](https://github.com/vipin-s27?tab=repositories)
 
 - 📫 How to reach me **vipinsuryavanshi.vs@gmail.com**
