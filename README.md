@@ -1,6 +1,9 @@
 <!-- Top Banner (Smaller Size) -->
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="banner" width="60%"/>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" 
+       alt="banner" 
+       width="60%" 
+       style="height:360px; object-fit:cover;">
 </p>
 
 <h1 align="center">Hi 👋, I'm Vipin Suryavanshi</h1>
@@ -61,7 +64,7 @@
 </td>
 
 <td width="40%" align="center" valign="center">
-  <img alt="Coding" width="330" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
+  <img alt="Coding" width="330" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 </td>
 </tr>
 </table>
