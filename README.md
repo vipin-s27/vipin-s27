@@ -1,15 +1,21 @@
 <h1 align="center">Hi 👋, I'm Vipin Suryavanshi</h1>
 <h3 align="center">Driven by data, powered by curiosity</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vipin-s27&label=Profile%20views&color=0e75b6&style=flat" alt="vipin-s27" /> </p>
+<table>
+<tr>
+<td width="60%" valign="top">
 
-- 👨‍💻 All of my projects are available at [https://github.com/vipin-s27?tab=repositories](https://github.com/vipin-s27?tab=repositories)
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=vipin-s27&label=Profile%20views&color=0e75b6&style=flat" alt="vipin-s27" /> 
+</p>
 
 - 📫 How to reach me **vipinsuryavanshi.vs@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vipin-suryavanshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vipin-suryavanshi" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/vipin-suryavanshi" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vipin-suryavanshi" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -45,3 +51,10 @@
   </a> 
 </p>
 
+</td>
+
+<td width="40%" align="center">
+  <img alt="Coding" width="300" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+</td>
+</tr>
+</table>
