@@ -61,6 +61,17 @@
   </a> 
 </p>
 
+<!-- Jupyter Notebook -->
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
+  </a>
+
+ <!-- VS Code -->
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" 
+         alt="vscode" width="37" height="37"/> 
+  </a>
+
 </td>
 
 <td width="40%" align="center" valign="center">
