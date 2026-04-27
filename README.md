@@ -2,8 +2,8 @@
 <p align="center">
   <img src="https://cdn.dribbble.com/userupload/23681047/file/original-d6517f1e2cc5829933ba69ca77010944.gif" 
        alt="banner" 
-       width="54%" 
-       style="height:320px; object-fit:cover;">
+       width="58%" 
+       style="height:340px; object-fit:cover;">
 </p>
 
 <h1 align="center">Hi 👋, I'm Vipin Suryavanshi</h1>
