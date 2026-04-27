@@ -1,9 +1,9 @@
 <!-- Top Banner (Smaller Size) -->
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" 
+  <img src="https://cdn.dribbble.com/userupload/23681047/file/original-d6517f1e2cc5829933ba69ca77010944.gif" 
        alt="banner" 
-       width="60%" 
-       style="height:360px; object-fit:cover;">
+       width="58%" 
+       style="height:340px; object-fit:cover;">
 </p>
 
 <h1 align="center">Hi 👋, I'm Vipin Suryavanshi</h1>
